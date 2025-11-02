@@ -6,13 +6,26 @@
 
 ## 📝 Overview
 
-**StarNet Ensemble** introduces a comprehensive, web-based framework featuring an integrated machine-learning-driven GUI for predicting smart grid stability. Leveraging a stacking-based ensemble learning approach, this system is designed to ensure reliable and effective electricity distribution within smart grids.
+**StarNet Ensemble** introduces a framework featuring an integrated machine-learning-driven GUI for predicting smart grid stability. This system leverages a stacking-based ensemble learning approach to ensure reliable and effective electricity distribution in smart grids.
 
 ---
 
 ## 🧑‍🔬 Abstract
 
-Maintaining stability in smart grids is critical for modern energy systems. This work presents the StarNet Model—a stacking ensemble integrated into a web-based platform for real-time, automated stability prediction and management. The framework utilizes a synthetic dataset derived from a 4-node star network (60,000 data points, 12 features, 2 targets), enabling robust predictive modeling and comparative evaluation. Achieving a prediction accuracy of 99.43%, the system supports real-time monitoring, predictive maintenance, and automated grid services (e.g., load shedding, demand response) via an interactive GUI, empowering stakeholders to optimize operations and minimize outages.
+The increasing complexity of modern power networks demands advanced predictive models to ensure grid stability and
+autonomous operation. The purpose of this research is to improve the predictive reliability and automation of smart grids
+through the development of the StarNet Ensemble Model, a stacking-based machine learning framework designed to enhance
+stability forecasting and decision-making in dynamic energy environments. The proposed method integrates multiple base
+learners in a hierarchical ensemble structure, enabling robust analysis and comparison across predictive models. A synthetic
+dataset was generated from a 4-node star network and extended to include consumer node variations, comprising 60,000
+data points with 12 predictive features and two dependent variables representing system stability states. Parameters such
+as reaction times, nominal power values, and price elasticity coefficients were analyzed to train and validate the model.
+Experimental evaluation demonstrates that the StarNet Ensemble Model achieved a prediction accuracy of 99.43%, significantly
+outperforming conventional baseline models. The model enables real-time stability prediction and supports automated decision-
+making for load management, demand response, and fault prevention. The findings reveal that the StarNet Ensemble Model
+provides a scalable and intelligent solution for predictive maintenance and autonomous control in smart grids. Its high accuracy
+and automation capability contribute to enhanced grid resilience, reduced operational costs, and improved reliability of future
+energy systems.
 
 ---
 

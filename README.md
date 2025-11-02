@@ -101,7 +101,8 @@ Code/       # Source code, notebooks, and web-based GUI
 | Brij B. Gupta<sup>*</sup>       | Dept. of Computer Science & Info. Engg., Asia University, Taiwan            | [bbgupta@asia.eu.tw](mailto:bbgupta@asia.eu.tw)         |
 | Wadee Alhalabi      | Dept. of Computer Science, King Abdulaziz University, Saudi Arabia          | [wsalhalabi@kau.edu.sa](mailto:wsalhalabi@kau.edu.sa)   |
 | Varsha Arya         | Dept. of Business Administration, Asia University, Taiwan                   | [varshaarya2108@gmail.com](mailto:varshaarya2108@gmail.com) |
-
+| Bassma Saleh Alsulami      | Dept. of Computer Science, King Abdulaziz University, Saudi Arabia          | [balsulami@kau.edu.sa](mailto:balsulami@kau.edu.sa)   |
+| Ching-Hsien Hsu      | Dept. of Computer Science & Info. Engg., Asia University, Taiwan            | [robertchh@asia.edu.tw](mailto:robertchh@asia.edu.tw)         |
 <sup>†</sup> Corresponding author <sup>‡</sup> Equal contribution <sup>*</sup> Principal Investigator
 
 ---
